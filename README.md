@@ -1,12 +1,15 @@
-![Commudle Logo](https://commudle.com/assets/images/commudle-logo152.png)
+<p align="center">
+  <img width="150" height="155" src="https://commudle.com/assets/images/commudle-logo152.png"><br>
+  <h1 align="center"><b>COMMUDLE</b></h1><br>
+  <h3 align="center"><a href="https://commudle.com"> www.commudle.com </a></h3>
+</p>
 
-# Commudle
-[www.commudle.com](https://commudle.com)
-
-This is a community management platform for Tech Communities across the world. The inspiration being the personal experiences of Community Organizers. 
 
 
-## To setup
+Commudle is a community management platform for Tech Communities across the world. The inspiration behind this project lies in the personal experiences of Organizers in the Tech Community.
+
+
+## How To setup:rocket:
 - Install Node.js and npm (at least version 13 of Node.js and at least version 6 of npm)
 - Install [@angular/cli](https://cli.angular.io/)
 - Clone the project.
