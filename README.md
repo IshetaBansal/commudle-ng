@@ -12,7 +12,10 @@ Commudle is a community management platform for Tech Communities across the worl
 ## How To setup:rocket:
 - Install Node.js and npm (at least version 13 of Node.js and at least version 6 of npm)
 - Install [@angular/cli](https://cli.angular.io/)
-- Clone the project.
+- Clone the project. 
+<p align="center"><img src="https://github.com/IshetaBansal/commudle-ng/blob/development/Extra%20Images/clone.png" height="300"/></p>
+
+
 - Run `npm install`.
 - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 - The development server directly interacts with the production APIs.
@@ -20,10 +23,16 @@ Commudle is a community management platform for Tech Communities across the worl
 
 ## Login/Sign Up for Development
 - Go to `https://auther.commudle.com`.
-- Sign in using your **Google Account** (Other options will be added soon).
+- Sign in using your **Google Account**(Other options will be added soon).
+<p align="center"><img src="https://github.com/IshetaBansal/commudle-ng/blob/development/Extra%20Images/loginpage.png" height="300"/></p>
+
+
 - Navigate to `http://localhost:4200/` and you should get signed in automatically.
-- If the above step does not sign you in, then:
+- If the above step does not sign you in, then:]
   - Go to `https://commudle.com` where you should be signed in.
+  <p align="center"><img src="https://github.com/IshetaBansal/commudle-ng/blob/development/Extra%20Images/Login.gif" height="300"/></p>
+  
+  
   - Open the developer tools of your respective browser.
   - Navigate to the *Application* Tab.
   - In the left side navigation bar, under *Storage* you can find *Cookies*.
